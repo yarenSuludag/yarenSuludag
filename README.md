@@ -78,7 +78,6 @@
 
 ---
 
-## 🌍 **Tech Communities & Open S
 ## 🔥 **My Favorite Quotes & Inspirations**  
 ✨ *"The only way to do great work is to love what you do."* – Steve Jobs  
 🚀 *"Any sufficiently advanced technology is indistinguishable from magic."* – Arthur C. Clarke  

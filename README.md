@@ -68,8 +68,8 @@
 ---
 
 ## 🚀 **My Latest Projects**  
-📌 **🩺 Skin Cancer Detection with Deep Learning** - *Medical Imaging Analysis with CNNs*  
-📌 **🖥 AI-Powered Chatbot** - *Natural Language Processing for customer support*  
+📌 **Skin Cancer Detection with Deep Learning** - *Analyzing medical images using CNN models*  
+📌 **Java Spring Web Development** - *Building RESTful APIs with Spring Boot & Hibernate*    
 📌 **🧠 NLP & Sentiment Analysis** - *Processing Turkish text with ML algorithms*  
 
 

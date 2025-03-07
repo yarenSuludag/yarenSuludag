@@ -78,15 +78,7 @@
 
 ---
 
-## 🌍 **Tech Communities & Open Source**
-- 🎯 **GDSC KOU & IEEE CS** - Active Member  
-- 🔍 **Computer Engineering Quality Control Ambassador** @ Kocaeli University  
-- 🏛 **42 Kocaeli Piscine Training**  
-- 🎤 **Computer Club Event Manager**  
-- 🌟 **Open-Source Contributions** on GitHub  
-
----
-
+## 🌍 **Tech Communities & Open S
 ## 🔥 **My Favorite Quotes & Inspirations**  
 ✨ *"The only way to do great work is to love what you do."* – Steve Jobs  
 🚀 *"Any sufficiently advanced technology is indistinguishable from magic."* – Arthur C. Clarke  

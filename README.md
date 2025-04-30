@@ -6,7 +6,8 @@
 </h1>
 
 
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200px">
+ <p align="center">
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="150px">
 </p>
 
 ---
@@ -16,11 +17,8 @@
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)  
 
 🎶 **Favorite Genres:** Lo-Fi, Synthwave, Orchestral Soundtracks  
-🎬 **Movie/Anime OSTs:** Interstellar, Your Name, Attack on Titan  
+🎬 **Movie/Anime OSTs:** Interstellar, Your Name 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="150px">
-</p>
 
 ---
 
@@ -28,14 +26,12 @@
 - 🎓 **Computer Engineering @ Kocaeli University** & **Visual Communication Design @ Anadolu University**  
 - 🚀 **AI, Data Science & HealthTech Enthusiast**  
 - 🏥 **Deep Learning in Medical Imaging** (Skin Cancer Detection)  
-- 🤖 **Natural Language Processing & Computer Vision Explorer**  
-- 📖 **Fantasy, Sci-Fi, & Romance Lover**  
-- 🎬 **Anime, Movies & TV Series Addict**  
+- 🤖 **Natural Language Processing & Computer Vision Explorer**   
 - 🌎 **Tech Community Advocate, Open-Source Contributor**  
 - 🔬 **Fascinated by Biology, Neuroscience & Healthcare AI**  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="300px">
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="150px">
 </p>
 
 ---
@@ -47,13 +43,6 @@
 
 ---
 
-## 🏆 **Certifications & Achievements**  
-✔ **AI Business School** – *Intro to Python, Machine Learning & Deep Learning*  
-✔ **Turkcell Geleceği Yazanlar** – *Data Science, Python 101-401, Machine Learning*  
-✔ **42 Kocaeli Piscine Training**  
-✔ **Active Member of IEEE CS & GDSC KOU**  
-
----
 
 ## 🔥 **GitHub Stats & Activity**  
 <p align="center">
@@ -70,10 +59,10 @@
 ## 🚀 **My Latest Projects**  
 📌 **Skin Cancer Detection with Deep Learning** - *Analyzing medical images using CNN models*  
 📌 **Java Spring Web Development** - *Building RESTful APIs with Spring Boot & Hibernate*    
-📌 **🧠 NLP & Sentiment Analysis** - *Processing Turkish text with ML algorithms*  
+ 
 
 
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250px">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="125px">
 </p>
 
 ---
